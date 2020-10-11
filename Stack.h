@@ -192,6 +192,29 @@ void Stack_info(const Stack<T>& stk);
 template<typename T>
 void Print_template_type(const T& var_name);
 
+//======================DEATH LINE==============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 template<typename T>
 void Stack<T>::Destruct(){
